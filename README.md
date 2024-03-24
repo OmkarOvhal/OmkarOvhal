@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with **Accenture**
 
-- 🌱 I’m currently learning **AWS Services, Data Engineering and ETL tools.**
+- 🌱 I’m currently learning **AWS Cloud, Data Engineering and ETL tools.**
 
 - 📫 How to reach me **omovhal@gmail.com**
 
