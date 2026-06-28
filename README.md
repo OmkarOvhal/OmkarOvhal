@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Omkar Ovhal</h1>
 <h3 align="center">Associate Consultant | Data Engineer | Healthcare & Life Sciences</h3>
 
